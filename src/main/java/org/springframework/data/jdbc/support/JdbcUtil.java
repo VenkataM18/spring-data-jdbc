@@ -36,6 +36,7 @@ import org.springframework.util.Assert;
  *
  * @author Jens Schauder
  * @author Thomas Lang
+ * @author Test
  */
 @UtilityClass
 public class JdbcUtil {
